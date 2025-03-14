@@ -14,20 +14,20 @@ User Stories:
 
 - [x] form element with a corresponding id="form"
 
-- Within the form, there is an input field with id="email" where you can enter an email address
+- [x] Within the form, there is an input field with id="email" where you can enter an email address
 
-- The #email input field should have placeholder text to let users know what the field is for
+- [x] The #email input field should have placeholder text to let users know what the field is for
 
-- The #email input field uses HTML5 validation to confirm that the entered text is an email address
+- [x] The #email input field uses HTML5 validation to confirm that the entered text is an email address
 
-- Within the form, there is a submit input with a corresponding id="submit"
+- [x] Within the form, there is a submit input with a corresponding id="submit"
 
-- When you click the #submit element, the email is submitted to a static page (use this mock URL: https://www.freecodecamp.com/email-submit)
+- [x] When you click the #submit element, the email is submitted to a static page (use this mock URL: https://www.freecodecamp.com/email-submit)
 
-- The navbar should always be at the top of the viewport
+- [x] The navbar should always be at the top of the viewport
 
 - at least one media query
 
-- should utilize CSS flexbox at least once
+- [x] should utilize CSS flexbox at least once
 
 

@@ -18,18 +18,21 @@ body {
     justify-content: space-between;
     position: fixed;
     top: 0;
-    /* background-color: white; */
-    padding: 0 1rem;
+    background-color: white;
+    padding: 1rem;
 }
 
 #title {
     display: flex;
     align-items: center;
     width: fit-content;
+    gap: 1rem;
 }
 
 #header-img {
     width: 100px;
+    height: 40px;
+    object-fit: cover;
 }
 
 
@@ -67,6 +70,29 @@ main {
 
 #form-container {
     width: 600px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#email-element {
+    position: relative;
+}
+
+form i {
+    position: absolute;
+    left: 10px;
+    top: 5px;
+    font-size: 1.5rem;
+    color: gray;
+}
+
+input[type=email] {
+    width: 300px;
+    padding: 10px 40px;
 }
 
 footer {
