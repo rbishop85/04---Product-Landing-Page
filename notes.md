@@ -12,7 +12,7 @@ User Stories:
 
 - [x] You can watch an embedded product video with id="video"
 
-- form element with a corresponding id="form"
+- [x] form element with a corresponding id="form"
 
 - Within the form, there is an input field with id="email" where you can enter an email address
 
