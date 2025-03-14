@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+body {
+    /* width: 100vh; */
+}
+
+#header {
+    display: flex;
+    height: 100px;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    
+
+}
+
+#title {
+    display: flex;
+    align-items: center;
+    width: fit-content;
+}
+
+#header-img {
+    width: 100px;
+}
+
+
+
+#nav-bar {
+    display: flex;
+    width: fit-content;
+}
+
+#nav-bar a {
+    text-decoration: none;
+    color: black;
+}
+
+main {
+    margin-top: 200px;
+}
