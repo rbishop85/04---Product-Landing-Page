@@ -6,9 +6,9 @@ User Stories:
 
 <!-- You can see an image within the header element with a corresponding id="header-img" (A logo would make a good image here) -->
 
-Within the #header element, you can see a nav element with a corresponding id="nav-bar"
+<!-- Within the #header element, you can see a nav element with a corresponding id="nav-bar" -->
 
-You can see at least three clickable elements inside the nav element, each with the class nav-link
+<!-- You can see at least three clickable elements inside the nav element, each with the class nav-link -->
 
 When you click a .nav-link button in the nav element, you are taken to the corresponding section of the landing page
 
