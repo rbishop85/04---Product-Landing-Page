@@ -8,7 +8,7 @@ User Stories:
 
 - [x] Within the #header element, you can see a nav element with a corresponding id="nav-bar"
 
-- When you click a .nav-link button in the nav element, you are taken to the corresponding section of the landing page
+- [x] When you click a .nav-link button in the nav element, you are taken to the corresponding section of the landing page
 
 - [x] You can watch an embedded product video with id="video"
 
@@ -26,7 +26,7 @@ User Stories:
 
 - [x] The navbar should always be at the top of the viewport
 
-- at least one media query
+- [x] at least one media query
 
 - [x] should utilize CSS flexbox at least once
 
